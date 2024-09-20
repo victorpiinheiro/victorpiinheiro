@@ -1,4 +1,4 @@
-<h2 align="left">- JavaScript Developer</h2>
+<h2 align="left">-  Developer</h2
 
 ###
 
